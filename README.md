@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kenzo-aspuru-takata
 - 👀 I’m interested in a lot of random stem stuff
-- 🌱 I’m currently learning about SDLs through a micro course
 - 📫 How to reach me: kenzolapio@gmail.com
 - 😄 Pronouns: He/Him
 
